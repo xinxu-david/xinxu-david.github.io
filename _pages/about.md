@@ -30,7 +30,7 @@ redirect_from:
 # 🎓 学历
 - *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养），导师：王帅安教授
 - *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生，导师：王效俐教授
-- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科，导师：杨忠振教授、陈康教授
+- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科，导师：杨忠振教授、陈康教授，平均学分绩点：4.22，排名：1/32
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -106,7 +106,7 @@ redirect_from:
 
 # 🏅 荣誉奖项
 
-### 荣誉称号
+### 🏆 荣誉称号
 ---
 - *2021.05* 获得 同济大学追求卓越奖（同济大学颁发给学生的最高荣誉） [[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
 - *2022.11* 获得 上海高校百名学生党员标兵 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247507866&idx=1&sn=a4e26b20957d8849bb003f57cc84d8bb&chksm=ea3f6202dd48eb14d033c5c20a63ec489614a3df06256632d2709dc81a3422290e0c645a4f09&scene=27)
@@ -114,7 +114,7 @@ redirect_from:
 - *2024.05* 获得 同济青年五四奖章 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247524704&idx=1&sn=4f64edd38d2a6ce101f4bec5cdd333f0&chksm=ea3fdcf8dd4855ee35fdf76aa6328f3aef48ea4629f5eacdf339c880fea5d89c74ac9a068237&scene=27)
 - *2025.05* 获得 上海市普通高等学校优秀毕业生
 
-### 创新创业竞赛
+### 🎏 创新创业竞赛
 ---
 - *2016.05* 获得 “中国动力谷杯”第十一届全国大学生交通科技大赛 `国家二等奖` （指导教师：杨忠振教授）
 - *2016.06* 获得 第二届全国大学生水运创新大赛 `国家二等奖` （指导教师：陈康教授）
