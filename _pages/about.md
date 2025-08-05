@@ -23,14 +23,14 @@ redirect_from:
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
 - 航运管理（例如，航线网络设计、船舶调度）
 - 交通、物流系统优化（例如，电动车交通网络设计）
-- 应急管理、人道主义物流
+- 应急管理（例如，人道主义物流网络设计）
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养），导师：王帅安教授
-- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生，导师：王效俐教授
-- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科，导师：杨忠振教授、陈康教授，GPA：4.22/5，排名：1/32
+- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养），导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授
+- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生，导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授
+- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科，导师：[杨忠振](http://hyxy.nbu.edu.cn/info/2692/45955.htm)教授、陈康教授，GPA：4.22/5，排名：1/32
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -152,13 +152,13 @@ redirect_from:
 
 ### 期刊编辑
 ---
-- PLOS ONE（学术编辑）
+- PLOS ONE（学术编辑） [[网页]](https://journals.plos.org/plosone/static/editorial-board?ae_name=Xu+Xin)
 - Frontiers in Marine Science（特刊编辑） [[网页]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
 
 ### 期刊审稿人
 ---
-- Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，Maritime Policy & Management，Computers & Operations Research，Maritime Economics & Logistics，International Journal of Shipping and Transport Logistics，Applied Energy，Computers & Industrial Engineering，Research in Transportation Economics，IEEE Transactions on Engineering Management，International Journal of Logistics，Cities，Computers in Industry
-- 大连海事大学学报
+- 英文期刊：Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，Maritime Policy & Management，Computers & Operations Research，Maritime Economics & Logistics，International Journal of Shipping and Transport Logistics，Applied Energy，Computers & Industrial Engineering，Research in Transportation Economics，IEEE Transactions on Engineering Management，International Journal of Logistics，Cities，Computers in Industry
+- 中文期刊：大连海事大学学报
 
 
 <span class='anchor' id='-yqlj'></span>
