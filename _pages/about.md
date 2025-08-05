@@ -146,7 +146,7 @@ redirect_from:
 
 ### 学术会议组织
 ---
-- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong, 担任职务：General Co-chairs. [[网页]](https://events.polyu.edu.hk/prsc2025/organisers)
+- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong, 担任职务：联合主席. [[网页]](https://events.polyu.edu.hk/prsc2025/organisers) [[新闻]](https://mp.weixin.qq.com/s/7S9fD8kIAZYsHBI2OoltvA)
 
 ### 期刊编辑
 ---
@@ -156,3 +156,4 @@ redirect_from:
 ### 期刊审稿人
 ---
 - Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，Maritime Policy & Management，Computers & Operations Research，Maritime Economics & Logistics，International Journal of Shipping and Transport Logistics，Applied Energy，Computers & Industrial Engineering，Research in Transportation Economics，IEEE Transactions on Engineering Management，International Journal of Logistics，Cities，Computers in Industry
+- 大连海事大学学报
