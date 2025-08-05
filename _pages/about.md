@@ -157,3 +157,10 @@ redirect_from:
 ---
 - Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，Maritime Policy & Management，Computers & Operations Research，Maritime Economics & Logistics，International Journal of Shipping and Transport Logistics，Applied Energy，Computers & Industrial Engineering，Research in Transportation Economics，IEEE Transactions on Engineering Management，International Journal of Logistics，Cities，Computers in Industry
 - 大连海事大学学报
+
+
+<span class='anchor' id='-yqlj'></span>
+
+### 🤟友情链接
+---
+- [张涛](https://zhangtao-david.github.io/)（同济大学、香港理工大学联合培养博士研究生，研究方向：应急管理、物流系统优化、航运管理）
