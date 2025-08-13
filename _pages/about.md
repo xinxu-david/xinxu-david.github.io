@@ -131,8 +131,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 💬 学术会议
-- *2020.11.5-7*，会议名称：The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB)，中国宁波. 报告主题：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
-- *2024.3.24-28*，会议名称：The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), 日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
+- *2020.11.5-7*，会议名称：The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB)，中国宁波. 报告主题：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*. [[网页]](http://mlftirc.zju.edu.cn/2020/1106/c54661a2214918/page.htm)
+- *2024.3.24-28*，会议名称：The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM 2024), 日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
 - *2024.8.29-30*，会议名称：The 2nd PolyU Research Student Conference (PRSC 2024)，中国香港. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. 获奖： `最佳演讲奖（Best Presentation Award）`
 [[网页]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*，会议名称：The 3rd PolyU Research Student Conference (PRSC 2025)，中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳论文奖 - 优秀奖（Best Paper Merit）`
