@@ -126,6 +126,7 @@ redirect_from:
 - *2024.08* 获得 第十七届全国大学生节能减排社会实践与科技竞赛 `国家二等奖`
 - *2025.05* 获得 “船视宝杯”第二十届全国大学生交通运输科技大赛 `国家二等奖` （指导教师：王帅安教授） [[网页]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
 - *2025.05* 指导学生获得 “正大杯”第十五届全国大学生市场调查与分析大赛 `国家一等奖（本人兼得优秀指导教师奖）` [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247533603&idx=1&sn=273680150124f438eec0ad188e98a00f&chksm=eb06e43d1bef49287f63223dd513aea0ae3816599b0f480ab5e4b1edebe241c9c30fb6fa2309&scene=27)
+- *2025.08* 指导学生获得“招行杯”第十八届全国大学生节能减排社会实践与科技竞赛 `国家三等奖` 
 
 <span class='anchor' id='-xshy'></span>
 
