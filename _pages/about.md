@@ -96,7 +96,6 @@ redirect_from:
 ---
 - 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. 清华大学出版社. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
 
-
 ### 代表性中文论文
 ---
 - 	杨忠振，杨云茜，`辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI)
@@ -137,8 +136,7 @@ redirect_from:
 [[网页]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*，会议名称：The 3rd PolyU Research Student Conference (PRSC 2025)，中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳论文奖 - 优秀奖（Best Paper Merit）`
 [[网页]](https://events.polyu.edu.hk/prsc2025/awardee)
-- *2025.3.24-28*，会议名称：19th International Conference on Innovative Computing, Information and Control (ICICIC2025), 日本小仓. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[网页]](http://www.icicconference.org/icicic2025/)
-
+- *2025.8.26-29*，会议名称：The 19th International Conference on Innovative Computing, Information and Control (ICICIC2025), 日本北九州. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[网页]](http://www.icicconference.org/icicic2025/)
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -162,7 +160,6 @@ redirect_from:
 - 英文期刊：Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，Maritime Policy & Management，Computers & Operations Research，Maritime Economics & Logistics，International Journal of Shipping and Transport Logistics，Applied Energy，Computers & Industrial Engineering，Research in Transportation Economics，IEEE Transactions on Engineering Management，International Journal of Logistics，Cities，Computers in Industry
 - 英文会议：TRB Annual Meeting
 - 中文期刊：大连海事大学学报
-
 
 <span class='anchor' id='-yqlj'></span>
 
