@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年8月1日，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达18。
+香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年9月1日，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达18。
 
 我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
@@ -137,6 +137,7 @@ redirect_from:
 [[网页]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*，会议名称：The 3rd PolyU Research Student Conference (PRSC 2025)，中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳论文奖 - 优秀奖（Best Paper Merit）`
 [[网页]](https://events.polyu.edu.hk/prsc2025/awardee)
+- *2025.3.24-28*，会议名称：19th International Conference on Innovative Computing, Information and Control (ICICIC2025), 日本小仓. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[网页]](http://www.icicconference.org/icicic2025/)
 
 
 <span class='anchor' id='-gzsx'></span>
