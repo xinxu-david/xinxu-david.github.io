@@ -144,7 +144,7 @@ redirect_from:
 
 ### 委员会成员
 ---
-- 香港理工大学商学院，学术委员会成员（2024-2025）
+- 香港理工大学商学院，学术委员会委员（2024-2025）
 
 ### 学术会议组织
 ---
@@ -157,7 +157,7 @@ redirect_from:
 
 ### 期刊审稿人
 ---
-- 英文期刊：Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，Maritime Policy & Management，Computers & Operations Research，Maritime Economics & Logistics，International Journal of Shipping and Transport Logistics，Applied Energy，Computers & Industrial Engineering，Research in Transportation Economics，IEEE Transactions on Engineering Management，International Journal of Logistics，Cities，Computers in Industry
+- 英文期刊：Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，IEEE Transactions on Engineering Management，Computers & Operations Research，Computers in Industry，Computers & Industrial Engineering，Maritime Policy & Management，Maritime Economics & Logistics，Applied Energy，Cities，International Journal of Shipping and Transport Logistics，Research in Transportation Economics，International Journal of Logistics
 - 英文会议：TRB Annual Meeting
 - 中文期刊：大连海事大学学报
 
