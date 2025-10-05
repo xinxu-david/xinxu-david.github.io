@@ -157,7 +157,7 @@ redirect_from:
 
 ### 期刊审稿人
 ---
-- 英文期刊：Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，IEEE Transactions on Engineering Management，Computers & Operations Research，Computers in Industry，Computers & Industrial Engineering，Maritime Policy & Management，Maritime Economics & Logistics，Applied Energy，Cities，International Journal of Shipping and Transport Logistics，Research in Transportation Economics，International Journal of Logistics
+- 英文期刊：Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，IEEE Transactions on Engineering Management，Computers & Operations Research，Computers in Industry，Computers & Industrial Engineering，Maritime Policy & Management，Maritime Economics & Logistics，Applied Economics，Applied Energy，Cities，International Journal of Shipping and Transport Logistics，Research in Transportation Economics，International Journal of Logistics，Advanced Engineering Informatics，Ocean & Coastal Management
 - 英文会议：TRB Annual Meeting
 - 中文期刊：大连海事大学学报
 
