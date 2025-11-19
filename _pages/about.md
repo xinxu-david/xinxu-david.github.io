@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系博士后。香港理工大学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达19。
+香港理工大学工商管理学院物流及航运学系博士后研究员。香港理工大学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达19。
 
 我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
@@ -29,7 +29,7 @@ redirect_from:
 
 # 🎓 学历
 - *2023.09 - 2025.10*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养），导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授
-- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生（硕博连读），导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授
+- *2018.09 - 2025.12*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生（硕博连读），导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授
 - *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科，导师：[杨忠振](http://hyxy.nbu.edu.cn/info/2692/45955.htm)教授、陈康教授，GPA：4.22/5，排名：1/32
  
 <span class='anchor' id='-lwzl'></span>
