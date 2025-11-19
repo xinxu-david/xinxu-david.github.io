@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至目前，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达18。
+香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至目前，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达19。
 
 我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
@@ -95,6 +95,10 @@ redirect_from:
 ### 教材
 ---
 - 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. 清华大学出版社. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
+
+### 慕课
+---
+- 赵军，俞自涛，赵斌，郭春生，王赫阳，郑爱东，邓娜，马非，赵宗瑜，`辛旭`，李扬. 节能减排 实践创新. 智慧树. [[网页]](https://coursehome.zhihuishu.com/courseHome/1000129431#teachTeam) 
 
 ### 代表性中文论文
 ---
