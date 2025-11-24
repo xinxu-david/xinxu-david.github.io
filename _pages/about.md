@@ -28,7 +28,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 2025.10*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士（联合培养），导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授
+- *2023.09 - 2025.10*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士（联合培养），导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授
 - *2018.09 - 2025.12*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士（硕博连读），导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授
 - *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科，导师：[杨忠振](http://hyxy.nbu.edu.cn/info/2692/45955.htm)教授、陈康教授，GPA：4.22/5，排名：1/32
  
@@ -58,39 +58,43 @@ redirect_from:
 
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
-- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646.
+- 第一作者论文
 
-- `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829.
+- `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606. [[网页]](https://www.sciencedirect.com/science/article/pii/S0306261925003368)
 
-- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382-409.
+- `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829. [[网页]](https://www.sciencedirect.com/science/article/pii/S0305054824003010)
 
-- `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120-6137.
+- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. Ocean & Coastal Management, 239, 106591. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569123001163)
 
-- `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. *Ocean & Coastal Management*, 226, 106263.
+- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382-409. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
 
-- `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. *Ocean & Coastal Management*, 225, 106231.
+- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/03088839.2021.1930225)
 
-- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591.
+- `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. *Ocean & Coastal Management*, 226, 106263. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569122002393)
 
-- `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606.
+- `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. *Ocean & Coastal Management*, 225, 106231. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569122002071)
 
-- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220.
+- `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120-6137. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1918625)
 
-- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. *Ocean & Coastal Management*, 234, 106474. `(ESI Top 1%)`
+- 通信作者论文
 
-- Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. *Ocean & Coastal Management*, 261, 107492.
+- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220. [[网页]](https://www.sciencedirect.com/science/article/pii/S0967070X24003809)
 
-- Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986.
-
-- Chen, K., Guo, J., `Xin, X.*`, Zhang, T., & Zhang, W. (2023). Port sustainability through integration: A port capacity and profit-sharing joint optimization approach. *Ocean & Coastal Management*, 245, 106867.
-
-- Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966.
+- Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. *Ocean & Coastal Management*, 261, 107492. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569124004770)
 
 - Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428-449.
 
-- Chen, K., Yi, X., `Xin, X.*`, & Zhang, T. (2023). Liner shipping network design model with carbon tax, seasonal freight rate fluctuations and empty container relocation. *Sustainable Horizons*, 8, 100073.
+- Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966. [[网页]](https://www.sciencedirect.com/science/article/pii/S096456912300491X)
 
-- Liu, M., Lai, K.-h., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2024). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 1-46.
+- Chen, K., Guo, J., `Xin, X.*`, Zhang, T., & Zhang, W. (2023). Port sustainability through integration: A port capacity and profit-sharing joint optimization approach. *Ocean & Coastal Management*, 245, 106867. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569123003927)
+
+- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. *Ocean & Coastal Management*, 234, 106474. `(ESI高被引论文 Top 1%)` [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569122004501)
+
+- Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
+
+- 其他论文
+
+- Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 27(1), 50-95.
 
 ### 教材
 ---
