@@ -78,7 +78,7 @@ redirect_from:
 
 - Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. *Ocean & Coastal Management*, 261, 107492. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569124004770)
 
-- Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428-449.
+- Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428-449. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/13675567.2021.1940112)
 
 - Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966. [[网页]](https://www.sciencedirect.com/science/article/pii/S096456912300491X)
 
