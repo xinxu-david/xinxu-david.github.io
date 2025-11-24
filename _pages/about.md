@@ -58,8 +58,6 @@ redirect_from:
 
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
-- 第一作者论文
-
 - `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606. [[网页]](https://www.sciencedirect.com/science/article/pii/S0306261925003368)
 
 - `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829. [[网页]](https://www.sciencedirect.com/science/article/pii/S0305054824003010)
@@ -76,8 +74,6 @@ redirect_from:
 
 - `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120-6137. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1918625)
 
-- 通信作者论文
-
 - Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220. [[网页]](https://www.sciencedirect.com/science/article/pii/S0967070X24003809)
 
 - Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. *Ocean & Coastal Management*, 261, 107492. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569124004770)
@@ -92,17 +88,15 @@ redirect_from:
 
 - Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
 
-- 其他论文
-
-- Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 27(1), 50-95.
+- Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 27(1), 50-95. [[网页]](https://link.springer.com/article/10.1057/s41278-024-00291-3)
 
 ### 教材
 ---
-- 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. 清华大学出版社. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
+- 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. *北京：清华大学出版社*. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
 
 ### 慕课
 ---
-- 赵军，俞自涛，赵斌，郭春生，王赫阳，郑爱东，邓娜，马非，赵宗瑜，`辛旭`，李扬. 节能减排 实践创新. 智慧树. [[网页]](https://coursehome.zhihuishu.com/courseHome/1000129431#teachTeam) 
+- 赵军，俞自涛，赵斌，郭春生，王赫阳，郑爱东，邓娜，马非，赵宗瑜，`辛旭`，李扬. 节能减排 实践创新. *智慧树*. [[网页]](https://coursehome.zhihuishu.com/courseHome/1000129431#teachTeam) 
 
 ### 代表性中文论文
 ---
