@@ -110,7 +110,7 @@ redirect_from:
 ### 🏆 荣誉称号
 ---
 - *2017.11* 获得 大连海事大学十佳大学生暨校长奖学金（大连海事大学颁发给本科生的最高荣誉）
-- *2019.09* 获得 同济大学学术先锋
+- *2019.09* 获得 同济大学学术先锋 [[新闻]](https://news.tongji.edu.cn/info/1003/71760.htm)
 - *2021.05* 获得 同济大学追求卓越奖（同济大学颁发给学生的最高荣誉） [[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
 - *2022.11* 获得 上海高校百名学生党员标兵 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247507866&idx=1&sn=a4e26b20957d8849bb003f57cc84d8bb&chksm=ea3f6202dd48eb14d033c5c20a63ec489614a3df06256632d2709dc81a3422290e0c645a4f09&scene=27)
 - *2023.10* 获得 上海高校团干部示范典型 [[新闻]](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxMzU5OA==&mid=2247511206&idx=1&sn=dd4ca4f58cb427c50acdad2a65c73e22&poc_token=HHSzhGijX18HAduxQ2ZY6fKnzCUqk5DKwSSs0geU)
