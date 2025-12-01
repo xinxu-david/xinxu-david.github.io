@@ -94,7 +94,7 @@ redirect_from:
 ---
 - 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. *北京：清华大学出版社*. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
 
-### 慕课
+### 慕课（MOOC）
 ---
 - 赵军，俞自涛，赵斌，郭春生，王赫阳，郑爱东，邓娜，马非，赵宗瑜，`辛旭`，李扬. 节能减排 实践创新. *智慧树*. [[网页]](https://coursehome.zhihuishu.com/courseHome/1000129431#teachTeam) 
 
