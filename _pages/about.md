@@ -62,7 +62,7 @@ redirect_from:
 
 - `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829. [[网页]](https://www.sciencedirect.com/science/article/pii/S0305054824003010)
 
-- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. Ocean & Coastal Management, 239, 106591. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569123001163)
+- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569123001163)
 
 - `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382-409. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
 
