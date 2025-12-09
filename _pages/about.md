@@ -25,6 +25,9 @@ redirect_from:
 - 交通、物流系统优化（例如，电动车交通网络设计、流水车间调度）
 - 应急管理（例如，人道主义物流网络设计）
 
+# 💼 工作经历
+- *2025.11 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士后研究员，合作导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授、[Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)教授
+
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
