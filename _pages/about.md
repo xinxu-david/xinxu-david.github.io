@@ -162,7 +162,8 @@ redirect_from:
 ### 期刊编辑
 ---
 - PLOS ONE（学术编辑） [[网页]](https://journals.plos.org/plosone/static/editorial-board?ae_name=Xu+Xin)
-- Frontiers in Marine Science（特刊编辑） [[网页]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
+- Frontiers in Marine Science（特刊编辑），专题：Challenges and Opportunities for Decarbonizing the Maritime Industry [[网页]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
+- Systems（特刊编辑），专题：	Advanced Transportation Systems and Logistics in Modern Cities
 
 ### 期刊审稿人
 ---
