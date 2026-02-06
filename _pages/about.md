@@ -26,14 +26,14 @@ redirect_from:
 - 应急管理（例如，人道主义物流网络设计）
 
 # 💼 工作经历
-- *2025.11 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士后研究员，合作导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授、[Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)教授
+- *2025.11 - 至今*， <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/)，香港特别行政区，博士后研究员，合作导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授、[Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)教授
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 2025.10*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 哲学博士，导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授
-- *2020.03 - 2025.12*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生/管理学博士，导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授
-- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科/管理学学士，导师：[杨忠振](http://hyxy.nbu.edu.cn/info/2692/45955.htm)教授、陈康教授，GPA：4.22/5，排名：1/32
+- *2023.09 - 2025.10*， <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/)，香港特别行政区，哲学博士，导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授
+- *2020.03 - 2025.12*， <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/)，上海，博士研究生/管理学博士，导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授
+- *2014.09 - 2018.06*， <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/)，辽宁大连，本科/管理学学士，导师：[杨忠振](http://hyxy.nbu.edu.cn/info/2692/45955.htm)教授、陈康教授，GPA：4.22/5，排名：1/32
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -148,12 +148,12 @@ redirect_from:
 
 # 💬 学术会议
 - *2020.11.5-7*，会议名称：The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB)，中国宁波. 报告主题：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*. [[网页]](http://mlftirc.zju.edu.cn/2020/1106/c54661a2214918/page.htm)
-- *2024.3.24-28*，会议名称：The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM 2024), 日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
+- *2024.3.24-28*，会议名称：The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM 2024)，日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
 - *2024.8.29-30*，会议名称：The 2nd PolyU Research Student Conference (PRSC 2024)，中国香港. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. 获奖： `最佳演讲奖（Best Presentation Award）`
 [[网页]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*，会议名称：The 3rd PolyU Research Student Conference (PRSC 2025)，中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳论文奖 - 优秀奖（Best Paper Merit）`
 [[网页]](https://events.polyu.edu.hk/prsc2025/awardee)
-- *2025.8.26-29*，会议名称：The 19th International Conference on Innovative Computing, Information and Control (ICICIC2025), 日本北九州. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[网页]](http://www.icicconference.org/icicic2025/)
+- *2025.8.26-29*，会议名称：The 19th International Conference on Innovative Computing，Information and Control (ICICIC2025)，日本北九州. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[网页]](http://www.icicconference.org/icicic2025/)
 
 <span class='anchor' id='-gzsx'></span>
 
