@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系博士后研究员。香港理工大学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文25篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为21。近年来，主笔10余篇咨政报告获省部级以上有关部门采纳。
+香港理工大学工商管理学院物流及航运学系博士后研究员。香港理工大学哲学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学管理学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文25篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为21。近年来，主笔10余篇咨政报告获省部级以上有关部门采纳。
 
 我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
@@ -67,7 +67,7 @@ redirect_from:
 
 - `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569123001163)
 
-- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382-409. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
+- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382--409. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
 
 - `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/03088839.2021.1930225)
 
