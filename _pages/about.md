@@ -62,7 +62,7 @@ redirect_from:
 
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
-- `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. *Energy*, xx, xx. [HTML]
+- `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. *Energy*, xx, xx. [网页]
 
 - `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606. [[网页]](https://www.sciencedirect.com/science/article/pii/S0306261925003368)
 
