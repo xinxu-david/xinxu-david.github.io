@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系博士后研究员。香港理工大学哲学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学管理学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，在TR-Part B/C/E、COR、IJPR等权威期刊发表SCI/SSCI检索论文40余篇，其中第一/通信作者论文25篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为21。近年来，主笔10余篇咨政报告获省部级以上有关部门采纳。
+香港理工大学工商管理学院物流及航运学系博士后研究员。香港理工大学哲学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学管理学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，在TR-Part B/C/E、COR、IJPR等权威期刊发表SCI/SSCI检索论文40余篇，其中第一/通信作者论文25篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为22。近年来，主笔10余篇咨政报告获省部级以上有关部门采纳。
 
 我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
@@ -62,7 +62,7 @@ redirect_from:
 
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
-- `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. *Energy*, xx, xx. [网页]
+- `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. *Energy*, 355, 141090. [[网页]](https://www.sciencedirect.com/science/article/pii/S0360544226011953?via%3Dihub) [[下载]](/pdf/EGY_2026.pdf)
 
 - `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606. [[网页]](https://www.sciencedirect.com/science/article/pii/S0306261925003368)
 
@@ -96,7 +96,7 @@ redirect_from:
 
 - Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
 
-- Chen, Z., `Xin, X.`, Aiymbubu, K., Yang, Z., Chen, J., & Chen, K. (2026). Carbon-priced LNG inventory routing with a single FSRU hub: Robust Branch-and-Price for heterogeneous fleets. *Transportation Research Part E: Logistics and Transportation Review*, xx, xx.
+- Chen, Z., `Xin, X.`, Aiymbubu, K., Yang, Z., Chen, J., & Chen, K. (2026). Carbon-priced LNG inventory routing with a single FSRU hub: Robust Branch-and-Price for heterogeneous fleets. *Transportation Research Part E: Logistics and Transportation Review*, 212, 104806.
 
 - Chen, K., Yi, X, `Xin, X.`, & Shan, H. (2026). Spatial evolution of liner bunkering hubs in Asia–Europe: Green fuel adoption under demand and fuel price uncertainty. *Transport Policy*, 178, 103956. [[网页]](https://doi.org/10.1016/j.tranpol.2025.103956)
 
