@@ -188,6 +188,13 @@ redirect_from:
 - 英文会议：TRB Annual Meeting
 - 中文期刊：大连海事大学学报（[2023年度优秀审稿专家](https://mp.weixin.qq.com/s/DGqgO3QBLF-ht1ukwvptjQ)）
 
+### 专题讲座
+---
+- *2021.11*，山东交通学院，研究生科研能力培养与提升 [[新闻]](https://xkyyjsc.sdjtu.edu.cn/info/1118/1959.htm)
+- *2024.09*，大连海事大学，航运管理学术论文写作思路及案例分析 [[新闻]](https://mp.weixin.qq.com/s/8RbRjw9vCruIWrQNncc4pg)
+- *2024.11*，上海工程技术大学，管理研究方法论 [[新闻]](https://cat.sues.edu.cn/35/9b/c11126a275867/page.htm)
+- *2025.11*，大连海事大学，做好大学时期的关键选择：如何过好大学生活 [[新闻]](https://mp.weixin.qq.com/s/abRr139pGCsVujJ0tP2tfQ)
+
 <span class='anchor' id='-yqlj'></span>
 
 # 🤟友情链接
