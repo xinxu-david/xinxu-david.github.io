@@ -60,6 +60,24 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'>
+  <!-- 将原有的图片容器宽度缩小（例如设为 15%），并去掉右边距 -->
+  <div class='paper-box-image' style="width: 15%; margin-right: 10px; float: left;">
+    <div>
+      <div class="badge">TRC 2025</div>
+      <!-- 让图片 100% 撑满这个 15% 的小容器 -->
+      <img src='images/TRC.jpg' alt="sym" style="width: 100%;">
+    </div>
+  </div>
+  <!-- 相应地把文字容器宽度稍微拉大（例如 82%） -->
+  <div class='paper-box-text' markdown="1" style="width: 82%; float: left;">
+
+- `Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231)
+[[网页]](https://doi.org/10.1016/j.trc.2025.105231)
+
+  </div>
+</div>
+
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
 - `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. *Energy*, 355, 141090. [[网页]](https://www.sciencedirect.com/science/article/pii/S0360544226011953?via%3Dihub) [[下载]](/pdf/EGY_2026.pdf)
