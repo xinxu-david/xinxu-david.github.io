@@ -61,11 +61,6 @@ redirect_from:
 </div>
 
 
-- `Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231)
-[[网页]](https://doi.org/10.1016/j.trc.2025.105231)
-
-  </div>
-</div>
 
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
