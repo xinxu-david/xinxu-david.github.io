@@ -181,6 +181,7 @@ redirect_from:
 
 ### 期刊编辑
 ---
+- [Sustainable Horizons](https://www.sciencedirect.com/journal/sustainable-horizons)（青年编委） [[网页]](https://www.sciencedirect.com/journal/sustainable-horizons/about/editorial-board)
 - [PLOS One](https://journals.plos.org/plosone/)（学术编辑） [[网页]](https://journals.plos.org/plosone/static/editorial-board?ae_name=Xu+Xin)
 - [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science)（特刊编辑），主题：Challenges and Opportunities for Decarbonizing the Maritime Industry [[网页]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
 - [Systems](https://www.mdpi.com/journal/systems)（特刊编辑），主题：Advanced Transportation Systems and Logistics in Modern Cities [[网页]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
