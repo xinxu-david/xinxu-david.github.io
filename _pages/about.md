@@ -42,8 +42,10 @@ redirect_from:
 
 ### 代表性英文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025/2026</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+-	Liu, M., `Xin, X`, Wang, X., & Jiang, C. (2026). Blockchain investment analysis for promoting rail–sea intermodal development: Should the rail carrier or the maritime carrier invest? *Transportation Research Part B: Methodological*, xxx, xxxxxx.
 
 -	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236. doi: [10.1016/j.trb.2025.103236](https://doi.org/10.1016/j.trb.2025.103236)
 [[网页]](https://doi.org/10.1016/j.trb.2025.103236) [[下载]](/pdf/TRB_2025.pdf)
