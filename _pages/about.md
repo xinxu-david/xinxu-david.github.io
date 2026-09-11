@@ -42,6 +42,8 @@ redirect_from:
 
 ### 代表性英文论文
 ---
+- 作者姓名旁标记符号“*”的，表示通信作者。
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025/2026</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,6 +103,8 @@ redirect_from:
 - Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. *Ocean & Coastal Management*, 234, 106474. `(ESI高被引论文 Top 1%)` [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569122004501)
 
 - Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
+
+- Chen, K., Wei, Z., `Xin, X.`, Jiang, Q., Yang, Z., & Chen, J. (2027). Ex-ante distributionally robust fleet deployment and slot allocation on liner shipping networks. *Transportation Research Part E: Logistics and Transportation Review*, 217, 105201.
 
 - Chen, Z., Wei, Z., Chen, K, `Xin, X.`, & Aiymbubu, K. (2026). Green liner service network design under demand uncertainty and carbon regulation: A compute-aware stochastic optimization framework. *Ocean & Coastal Management*, 279, 108249.
 
