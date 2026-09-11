@@ -42,7 +42,7 @@ redirect_from:
 
 ### 代表性英文论文
 ---
-- 作者姓名旁标记符号“*”的，表示通信作者。
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025/2026</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
