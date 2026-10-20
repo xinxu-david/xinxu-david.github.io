@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学杰出博士后研究员，就职于香港理工大学工商管理学院物流及航运学系。香港理工大学哲学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学管理学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，在TR-Part B/C/E、TP、COR、IJPR等权威期刊发表SCI/SSCI检索论文40余篇，其中第一/通信作者论文29篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，谷歌学术H指数为26。近年来，主笔10余篇咨政报告获省部级以上有关部门采纳。
+香港理工大学杰出博士后研究员（PolyU Distinguished Postdoctoral Fellow），就职于香港理工大学工商管理学院物流及航运学系。香港理工大学哲学博士（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学管理学博士（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）。截至目前，在TR-Part B/C/E、TP、COR、IJPR等权威期刊发表SCI/SSCI检索论文40余篇，其中第一/通信作者论文29篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，谷歌学术H指数为26。近年来，主笔10余篇咨政报告获省部级以上有关部门采纳。
 
 我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
@@ -26,7 +26,7 @@ redirect_from:
 - 应急管理（例如，人道主义物流网络设计）
 
 # 💼 工作经历
-- *2027.01 - 至今*， <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/)，香港特别行政区，理大杰出博士后研究员，合作导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授、[金涌](https://www.polyu.edu.hk/lms/people/academic-staff/jimmy-jin/)教授
+- *2027.01 - 至今*， <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/)，香港特别行政区，理大杰出博士后研究员（PolyU Distinguished Postdoctoral Fellow），合作导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授、[金涌](https://www.polyu.edu.hk/lms/people/academic-staff/jimmy-jin/)教授
 - *2025.11 - 2026.12*， <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/)，香港特别行政区，博士后研究员，合作导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授、[Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)教授
 
 <span class='anchor' id='-xl'></span>
