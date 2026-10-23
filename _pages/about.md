@@ -22,8 +22,8 @@ redirect_from:
 我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
 - 航运管理（例如，航线网络设计、航线配船、舱位分配）
-- 交通、物流系统优化（例如，电动车交通网络设计、流水车间调度）
-- 应急管理（例如，人道主义物流网络设计、卡车无人机协同配送）
+- 交通、物流系统优化（例如，电动汽车交通网络设计、流水车间调度）
+- 应急管理（例如，人道主义物流网络设计、卡车与无人机协同配送）
 
 # 💼 工作经历
 - *2027.01 - 至今*， <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工商管理学院](https://www.polyu.edu.hk/fb/)[物流及航运学系](https://www.polyu.edu.hk/lms/)，香港特别行政区，理大杰出博士后研究员（PolyU Distinguished Postdoctoral Fellow），合作导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授、[金涌](https://www.polyu.edu.hk/lms/people/academic-staff/jimmy-jin/)教授
@@ -48,12 +48,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025/2026</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Chen, K., Wang, Z., Zong, M., Yang, Z., Chen, J., & `Xin, X*`. (2026). Joint capacity planning and dynamic allocation for container leasing with asymmetric substitution. *Transportation Research Part B: Methodological*, 214, 103602. doi: [10.1016/j.trb.2026.103602](https://doi.org/10.1016/j.trb.2026.103602) [[网页]](https://doi.org/10.1016/j.trb.2026.103602)
+- Chen, K., Wang, Z., Zong, M., Yang, Z., Chen, J., & `Xin, X.*` (2026). Joint capacity planning and dynamic allocation for container leasing with asymmetric substitution. *Transportation Research Part B: Methodological*, 214, 103602. doi: [10.1016/j.trb.2026.103602](https://doi.org/10.1016/j.trb.2026.103602) [[网页]](https://doi.org/10.1016/j.trb.2026.103602)
 
--	Liu, M., `Xin, X`, Wang, X., & Jiang, C. (2026). Blockchain investment analysis for promoting rail–sea intermodal development: Should the rail carrier or the maritime carrier invest? *Transportation Research Part B: Methodological*, 213, 103571. doi: [10.1016/j.trb.2026.103571](https://doi.org/10.1016/j.trb.2026.103571) [[网页]](https://doi.org/10.1016/j.trb.2026.103571)
+- Liu, M., `Xin, X.`, Wang, X., & Jiang, C. (2026). Blockchain investment analysis for promoting rail–sea intermodal development: Should the rail carrier or the maritime carrier invest? *Transportation Research Part B: Methodological*, 213, 103571. doi: [10.1016/j.trb.2026.103571](https://doi.org/10.1016/j.trb.2026.103571) [[网页]](https://doi.org/10.1016/j.trb.2026.103571)
 
--	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236. doi: [10.1016/j.trb.2025.103236](https://doi.org/10.1016/j.trb.2025.103236)
-[[网页]](https://doi.org/10.1016/j.trb.2025.103236) [[下载]](/pdf/TRB_2025.pdf)
+- Zhang, T., Wang, S., & `Xin, X.*` (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236. doi: [10.1016/j.trb.2025.103236](https://doi.org/10.1016/j.trb.2025.103236) [[网页]](https://doi.org/10.1016/j.trb.2025.103236) [[下载]](/pdf/TRB_2025.pdf)
 
 </div>
 </div>
@@ -61,15 +60,14 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025/2026</div><img src='images/TRC.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xin, X.`, Zhang, T., Pang, K.-W., Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, 192, 105855. doi: [10.1016/j.trc.2026.105855](https://doi.org/10.1016/j.trc.2026.105855) [[网页]](https://doi.org/10.1016/j.trc.2026.105855)
+- `Xin, X.`, Zhang, T., Pang, K.-W., & Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, 192, 105855. doi: [10.1016/j.trc.2026.105855](https://doi.org/10.1016/j.trc.2026.105855) [[网页]](https://doi.org/10.1016/j.trc.2026.105855)
 
--	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231) [[网页]](https://doi.org/10.1016/j.trc.2025.105231)
+- `Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231) [[网页]](https://doi.org/10.1016/j.trc.2025.105231)
 
 </div>
 </div>
 
-
-- 作者姓名旁标记符号“`*`”的，表示通信作者。
+- 注：`*` 表示通信作者。
 
 - `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. *Energy*, 355, 141090. [[网页]](https://www.sciencedirect.com/science/article/pii/S0360544226011953?via%3Dihub) [[下载]](/pdf/EGY_2026.pdf)
 
@@ -79,23 +77,23 @@ redirect_from:
 
 - `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569123001163)
 
-- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382--409. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
+- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382–409. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
 
-- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620--646. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/03088839.2021.1930225)
+- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620–646. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/03088839.2021.1930225)
 
 - `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. *Ocean & Coastal Management*, 226, 106263. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569122002393)
 
 - `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. *Ocean & Coastal Management*, 225, 106231. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569122002071)
 
-- `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120--6137. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1918625)
+- `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120–6137. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1918625)
 
-- Zhang, T., Wang, S., & `Xin, X*`. (2026). Humanitarian relief logistics network design considering facility location, inventory pre-positioning and evacuation planning: A two-stage distributionally robust optimization approach. *Computers & Operations Research*, 189, 107390. [[网页]](https://doi.org/10.1016/j.cor.2026.107390) [[下载]](/pdf/COR_2026.pdf)
+- Zhang, T., Wang, S., & `Xin, X.*` (2026). Humanitarian relief logistics network design considering facility location, inventory pre-positioning and evacuation planning: A two-stage distributionally robust optimization approach. *Computers & Operations Research*, 189, 107390. [[网页]](https://doi.org/10.1016/j.cor.2026.107390) [[下载]](/pdf/COR_2026.pdf)
 
-- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200--220. [[网页]](https://www.sciencedirect.com/science/article/pii/S0967070X24003809)
+- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200–220. [[网页]](https://www.sciencedirect.com/science/article/pii/S0967070X24003809)
 
 - Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. *Ocean & Coastal Management*, 261, 107492. [[网页]](https://www.sciencedirect.com/science/article/pii/S0964569124004770)
 
-- Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428--449. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/13675567.2021.1940112)
+- Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428–449. [[网页]](https://www.tandfonline.com/doi/abs/10.1080/13675567.2021.1940112)
 
 - Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966. [[网页]](https://www.sciencedirect.com/science/article/pii/S096456912300491X)
 
@@ -107,13 +105,13 @@ redirect_from:
 
 - Chen, K., Wei, Z., `Xin, X.`, Jiang, Q., Yang, Z., & Chen, J. (2027). Ex-ante distributionally robust fleet deployment and slot allocation on liner shipping networks. *Transportation Research Part E: Logistics and Transportation Review*, 217, 105201.
 
-- Chen, Z., Wei, Z., Chen, K, `Xin, X.`, & Aiymbubu, K. (2026). Green liner service network design under demand uncertainty and carbon regulation: A compute-aware stochastic optimization framework. *Ocean & Coastal Management*, 279, 108249.
+- Chen, Z., Wei, Z., Chen, K., `Xin, X.`, & Aiymbubu, K. (2026). Green liner service network design under demand uncertainty and carbon regulation: A compute-aware stochastic optimization framework. *Ocean & Coastal Management*, 279, 108249.
 
 - Chen, Z., `Xin, X.`, Aiymbubu, K., Yang, Z., Chen, J., & Chen, K. (2026). Carbon-priced LNG inventory routing with a single FSRU hub: Robust Branch-and-Price for heterogeneous fleets. *Transportation Research Part E: Logistics and Transportation Review*, 212, 104806.
 
-- Chen, K., Yi, X, `Xin, X.`, & Shan, H. (2026). Spatial evolution of liner bunkering hubs in Asia–Europe: Green fuel adoption under demand and fuel price uncertainty. *Transport Policy*, 178, 103956. [[网页]](https://doi.org/10.1016/j.tranpol.2025.103956)
+- Chen, K., Yi, X., `Xin, X.`, & Shan, H. (2026). Spatial evolution of liner bunkering hubs in Asia–Europe: Green fuel adoption under demand and fuel price uncertainty. *Transport Policy*, 178, 103956. [[网页]](https://doi.org/10.1016/j.tranpol.2025.103956)
 
-- Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 27(1), 50--95. [[网页]](https://link.springer.com/article/10.1057/s41278-024-00291-3)
+- Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 27(1), 50–95. [[网页]](https://link.springer.com/article/10.1057/s41278-024-00291-3)
 
 ### 教材
 ---
@@ -167,13 +165,13 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 💬 学术会议
-- *2020.11.5-7*，会议名称：The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB)，中国宁波. 报告主题：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*. [[网页]](http://mlftirc.zju.edu.cn/2020/1106/c54661a2214918/page.htm)
-- *2024.3.24-28*，会议名称：The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM 2024)，日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
-- *2024.8.29-30*，会议名称：The 2nd PolyU Research Student Conference (PRSC 2024)，中国香港. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. 获奖： `最佳演讲奖（Best Presentation Award）`
+- *2020.11.5-7*，会议名称：The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB)，中国宁波. 报告题目：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*. [[网页]](http://mlftirc.zju.edu.cn/2020/1106/c54661a2214918/page.htm)
+- *2024.3.24-28*，会议名称：The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM 2024)，日本松江. 报告题目：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
+- *2024.8.29-30*，会议名称：The 2nd PolyU Research Student Conference (PRSC 2024)，中国香港. 报告题目：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. 获奖： `最佳演讲奖（Best Presentation Award）`
 [[网页]](https://events.polyu.edu.hk/prsc2024/listofawardees)
-- *2025.7.2-4*，会议名称：The 3rd PolyU Research Student Conference (PRSC 2025)，中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳论文奖 - 优秀奖（Best Paper Merit）`
+- *2025.7.2-4*，会议名称：The 3rd PolyU Research Student Conference (PRSC 2025)，中国香港. 报告题目：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `优秀论文奖（Best Paper Merit）`
 [[网页]](https://events.polyu.edu.hk/prsc2025/awardee)
-- *2025.8.26-29*，会议名称：The 19th International Conference on Innovative Computing，Information and Control (ICICIC2025)，日本北九州. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[网页]](http://www.icicconference.org/icicic2025/)
+- *2025.8.26-29*，会议名称：The 19th International Conference on Innovative Computing, Information and Control (ICICIC2025)，日本北九州. 报告题目：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[网页]](http://www.icicconference.org/icicic2025/)
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -181,7 +179,7 @@ redirect_from:
 
 ### 委员会成员
 ---
-- 香港理工大学商学院，学术委员会委员（2024-2025）
+- 香港理工大学商学院，研究委员会委员（2024-2025）
 
 ### 学术会议组织
 ---
@@ -196,7 +194,7 @@ redirect_from:
   - 主题：Challenges and Opportunities for Decarbonizing the Maritime Industry [[网页]](https://www.frontiersin.org/research-topics/66593)
 - [Systems](https://www.mdpi.com/journal/systems)（特刊编辑），主题：Advanced Transportation Systems and Logistics in Modern Cities [[网页]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
 
-### 期刊审稿人
+### 期刊与会议审稿人
 ---
 - 英文期刊：Transportation Research Part B: Methodological，European Journal of Operational Research，Transportation Research Part C: Emerging Technologies，Transportation Research Part D: Transport and Environment，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，IEEE Transactions on Intelligent Transportation Systems，IEEE Transactions on Engineering Management，Computers & Operations Research，International Journal of Production Economics，Annals of Operations Research，Computers in Industry，Computers & Industrial Engineering，Maritime Policy & Management，Maritime Economics & Logistics，Applied Economics，Applied Energy，Cities，International Journal of Shipping and Transport Logistics，Research in Transportation Economics，International Journal of Logistics，Advanced Engineering Informatics，Ocean & Coastal Management
 - 英文会议：TRB Annual Meeting
