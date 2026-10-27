@@ -192,7 +192,9 @@ redirect_from:
 - [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science)（特刊编辑）
   - 主题：Governance and Policy for Sustainable Port and Shipping Systems amid Climate Change and Uncertainty [[网页]](https://www.frontiersin.org/research-topics/84172)
   - 主题：Challenges and Opportunities for Decarbonizing the Maritime Industry [[网页]](https://www.frontiersin.org/research-topics/66593)
-- [Systems](https://www.mdpi.com/journal/systems)（特刊编辑），主题：Advanced Transportation Systems and Logistics in Modern Cities [[网页]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
+- [Systems](https://www.mdpi.com/journal/systems)（特刊编辑）
+  - 主题：Modeling and Decision-Making for Advanced Transportation and Logistics Systems [[网页]](https://www.mdpi.com/journal/systems/special_issues/BQ0NYYK3U5)
+  - 主题：Advanced Transportation Systems and Logistics in Modern Cities [[网页]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
 
 ### 期刊与会议审稿人
 ---
